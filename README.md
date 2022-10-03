@@ -5,14 +5,14 @@ Furthermore, access to the lab's server and GPU allowed this project to conduct 
 The authors of this report are grateful to EveryWare's kind support with their time, their resources, and their domain knowledge.
 
 The work focusses on the problem of multiclass classification of human joints (Knee, Elbow, Ankle, Other) from a dataset of 8693 ultrasounds.
-<img src="http://....jpg" width="200" height="200" />
+<img src="https://github.com/czephyr/msa_CNNproject/blob/main/msaarch.drawio.png" width="200" height="200" />
 
 An exploration on classifiying the angles from which the ultrasound was taken has also been produced with the aim of 
 comparing different approaches (transfer learning and K-means clustering on features extracted by the convolutional structure of the CNN) to solve the task.
 
 The best performing architecture, inspired by our literature review and the VGG design philosophy, achieves an average 0.895 Accuracy score on a 5-fold group-aware Cross Validation. 
 
-<img src="http://....jpg" width="200" height="200" />
+<img src="https://github.com/czephyr/msa_CNNproject/blob/main/Knee%20Ultrasound%20demonstration.png" width="200" height="200" />
 
 The work is inspired by a literature review on the following papers:
 - Y. LeCun. Generalization and network design strategies. 1989
