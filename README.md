@@ -20,7 +20,7 @@ The best performing architecture, inspired by our literature review and the VGG 
 It was found that training a CNN from scratch achieved slightly better overall accuracy of 0.919 accuracy with respect to 0.895 from transfer learning on identifying the knee cross-sections. K-Means clustering on features extracted by the convolutional structure of the CNN was only able to distinguish SQR (A) scans which are collected from the top of the patella and Femoral (C) which are collected with the probe rotated by 90 degrees; Medial (B white) and Lateral (B black), collected on the right and left of the patella, with the probe positioned at the same orientation produce very similar images that the clustering wasn't able to distinguish. 
 
 <p align="center">
-<img src="https://github.com/czephyr/msa_CNNproject/blob/main/kneeSides.png" width="250" height="450" />
+<img src="https://github.com/czephyr/msa_CNNproject/blob/main/kneeSides.png" width="350" height="450" />
 </p>
 
 The work is inspired by a literature review on the following papers:
