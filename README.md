@@ -5,7 +5,7 @@ The dataset used in this project is from real patients provided by the Policlini
 Furthermore, access to the lab's server and GPU allowed this project to conduct the numerous CNN experiments, which would be challenging on regular laptops otherwise.
 The authors of this report are grateful to EveryWare's kind support with their time, their resources, and their domain knowledge.
 
-The project has been developed using Tensorflow and its visualization interface Tensorboard.
+The project has been developed using Pandas, Scikit-learn, Tensorflow and its visualization interface Tensorboard.
 
 The work focusses on the problem of multiclass classification of human joints (Knee, Elbow, Ankle, Other) from a dataset of 8693 ultrasounds.
 <p align="center">
