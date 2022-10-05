@@ -25,14 +25,9 @@ It was found that training a CNN from scratch achieved slightly better overall a
 
 The work is inspired by a literature review on the following papers:
 
-- Y. LeCun. Generalization and network design strategies. 1989
-- Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D.
-Jackel. Backpropagation applied to handwritten zip code recognition. 1989
-- Y. Le Cun, B. Boser, J. S. Denker, R. E. Howard, W. Habbard, L. D. Jackel, and D. Hen-
-derson. Handwritten Digit Recognition with a Back-Propagation Network. 1990
-- Yann LeCun, L ́eon Bottou, Yoshua Bengio, and Patrick Haffner. Gradient-based learning
-applied to document recognition. 1998
-- Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. Imagenet classification with deep
-convolutional neural networks. 2012
-- Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-scale
-image recognition. 2014
+>- Y. LeCun. Generalization and network design strategies. 1989
+> - Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D. Jackel. Backpropagation applied to handwritten zip code recognition. 1989
+> - Y. Le Cun, B. Boser, J. S. Denker, R. E. Howard, W. Habbard, L. D. Jackel, and D. Henderson. Handwritten Digit Recognition with a Back-Propagation Network. 1990
+> - Yann LeCun, L ́eon Bottou, Yoshua Bengio, and Patrick Haffner. Gradient-based learning applied to document recognition. 1998
+> - Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. Imagenet classification with deep convolutional neural networks. 2012
+> - Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-scale image recognition. 2014
