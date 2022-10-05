@@ -9,8 +9,7 @@ The work focusses on the problem of multiclass classification of human joints (K
 <img src="https://github.com/czephyr/msa_CNNproject/blob/main/Knee%20Ultrasound%20demonstration.png" width="500" height="300" />
 </p>
   
-An exploration on classifiying the angles from which the ultrasound was taken has also been produced with the aim of 
-comparing different approaches (transfer learning and K-means clustering on features extracted by the convolutional structure of the CNN) to solve the task.
+An exploration on identify which of 3 standard cross-sections used by radiologists was used to capture the ultrasound images of knees has also been produced with the aim of comparing different approaches (transfer learning and K-means clustering on features extracted by the convolutional structure of the CNN) to solve the task.
 
 The best performing architecture, inspired by our literature review and the VGG design philosophy, achieves an average 0.895 Accuracy score on a 5-fold group-aware Cross Validation. 
 
