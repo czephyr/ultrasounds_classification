@@ -1,9 +1,11 @@
-### Classification of Ultrasound Images of Joints using Convolutional Neural Networks
+## Classification of Ultrasound Images of Joints using Convolutional Neural Networks
 The project was developed for the Statistical Methods for Machine learning exam from the Data Science for Economics MSc at Unimi. 
 
 The dataset used in this project is from real patients provided by the Policlinico of Milan, and the project is part of a collaboration with the EveryWare lab at the University of Milan. 
 Furthermore, access to the lab's server and GPU allowed this project to conduct the numerous CNN experiments, which would be challenging on regular laptops otherwise.
 The authors of this report are grateful to EveryWare's kind support with their time, their resources, and their domain knowledge.
+
+The project has been developed using Tensorflow and its visualization interface Tensorboard.
 
 The work focusses on the problem of multiclass classification of human joints (Knee, Elbow, Ankle, Other) from a dataset of 8693 ultrasounds.
 <p align="center">
