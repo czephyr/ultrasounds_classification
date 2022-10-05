@@ -1,4 +1,4 @@
-#### Classification of Ultrasound Images of Joints using Convolutional Neural Networks
+### Classification of Ultrasound Images of Joints using Convolutional Neural Networks
 The project was developed for the Statistical Methods for Machine learning exam from the Data Science for Economics MSc at Unimi. 
 
 The dataset used in this project is from real patients provided by the Policlinico of Milan, and the project is part of a collaboration with the EveryWare lab at the University of Milan. 
