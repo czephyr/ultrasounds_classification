@@ -10,8 +10,10 @@ The project has been developed using Pandas, Scikit-learn, Tensorflow and its vi
 The work focusses on the problem of multiclass classification of human joints (Knee, Elbow, Ankle, Other) from a dataset of 8693 ultrasounds.
 <p align="center">
 <img src="https://github.com/czephyr/msa_CNNproject/blob/main/Knee%20Ultrasound%20demonstration.png" width="500" height="300" />
+<div style="text-align: center; font-size: smaller;">(Image is a demonstration, not from actual dataset)</div>
 </p>
-  
+
+
 An exploration on identify which of 3 standard cross-sections used by radiologists was used to capture the ultrasound images of knees has also been produced with the aim of comparing different approaches (transfer learning and K-means clustering) to solve the task.
 
 The best performing architecture, inspired by our literature review and the VGG design philosophy, achieves an average 0.895 Accuracy score on a 5-fold group-aware Cross Validation. 
